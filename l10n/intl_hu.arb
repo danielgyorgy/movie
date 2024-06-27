@@ -1,0 +1,8 @@
+{
+  "title": "Film App",
+  "search_hint": "Keresés egy filmre",
+  "details_title": "Film részletek",
+  "release_date": "Megjelenés dátuma",
+  "no_data": "Nincs adat",
+  "error": "Hiba: {error}"
+}

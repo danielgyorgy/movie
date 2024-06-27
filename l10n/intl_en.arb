@@ -1,0 +1,8 @@
+{
+  "title": "Movie App",
+  "search_hint": "Search for a movie",
+  "details_title": "Movie Details",
+  "release_date": "Release Date",
+  "no_data": "No data",
+  "error": "Error: {error}"
+}
